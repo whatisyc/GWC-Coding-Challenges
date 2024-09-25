@@ -4,5 +4,7 @@ Your task is to create a program that allows a user to input single-digit number
 Your goal is to increase this large integer by one and return the resulting array.
 
 For example:
+
 Given the numbers [1, 2, 3], the program should return [1, 2, 4].
+
 Given the numbers [5, 7, 9], the program should return [5, 8, 0].
