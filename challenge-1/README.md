@@ -8,3 +8,5 @@ For example:
 Given the numbers [1, 2, 3], the program should return [1, 2, 4].
 
 Given the numbers [5, 7, 9], the program should return [5, 8, 0].
+
+Must be submitted by 11:59pm on October 8th.
